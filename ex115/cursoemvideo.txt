@@ -1,0 +1,3 @@
+[1;94mNome:[m [1;93mFlávio[m; [1;94mIdade:[m [1;93m19
+[m[1;94mNome:[m [1;93mJosé[m; [1;94mIdade:[m [1;93m17
+[m
